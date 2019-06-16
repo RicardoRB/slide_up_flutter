@@ -1,7 +1,7 @@
 name: slide_up_flutter
 description: Slide up widget in your app
 version: 0.0.1
-author: Ricardo Romero Benitez
+author: Ricardo Romero Benitez <ricardoromebeni@gmail.com>
 homepage: https://github.com/RicardoRB/slide_up_flutter
 
 environment:
